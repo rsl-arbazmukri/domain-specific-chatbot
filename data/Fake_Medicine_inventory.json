@@ -1,0 +1,62 @@
+{
+    "Hypertension": [
+        { "medicine": "Lisinopril", "remainingTablets": 50 },
+        { "medicine": "Amlodipine", "remainingTablets": 30 },
+        { "medicine": "Hydrochlorothiazide", "remainingTablets": 25 },
+        { "medicine": "Losartan", "remainingTablets": 40 }
+    ],
+    "Migraine": [
+        { "medicine": "Sumatriptan", "remainingTablets": 20 },
+        { "medicine": "Ibuprofen", "remainingTablets": 60 },
+        { "medicine": "Naproxen", "remainingTablets": 40 },
+        { "medicine": "Propranolol", "remainingTablets": 15 }
+    ],
+    "Flu": [
+        { "medicine": "Acetaminophen", "remainingTablets": 70 },
+        { "medicine": "Ibuprofen", "remainingTablets": 55 },
+        { "medicine": "Oseltamivir", "remainingTablets": 10 },
+        { "medicine": "Cough Syrup", "remainingTablets": 25 }
+    ],
+    "Diabetes": [
+        { "medicine": "Metformin", "remainingTablets": 100 },
+        { "medicine": "Insulin", "remainingTablets": 5 },
+        { "medicine": "Glipizide", "remainingTablets": 30 },
+        { "medicine": "Liraglutide", "remainingTablets": 20 }
+    ],
+    "Arthritis": [
+        { "medicine": "Ibuprofen", "remainingTablets": 45 },
+        { "medicine": "Naproxen", "remainingTablets": 60 },
+        { "medicine": "Celecoxib", "remainingTablets": 25 },
+        { "medicine": "Methotrexate", "remainingTablets": 15 }
+    ],
+    "Common Cold": [
+        { "medicine": "Acetaminophen", "remainingTablets": 80 },
+        { "medicine": "Ibuprofen", "remainingTablets": 70 },
+        { "medicine": "Dextromethorphan", "remainingTablets": 40 },
+        { "medicine": "Pseudoephedrine", "remainingTablets": 30 }
+    ],
+    "Heart Disease": [
+        { "medicine": "Aspirin", "remainingTablets": 90 },
+        { "medicine": "Atorvastatin", "remainingTablets": 50 },
+        { "medicine": "Metoprolol", "remainingTablets": 30 },
+        { "medicine": "Nitroglycerin", "remainingTablets": 10 }
+    ],
+    "Asthma": [
+        { "medicine": "Albuterol", "remainingTablets": 25 },
+        { "medicine": "Fluticasone", "remainingTablets": 20 },
+        { "medicine": "Montelukast", "remainingTablets": 40 },
+        { "medicine": "Theophylline", "remainingTablets": 10 }
+    ],
+    "Allergies": [
+        { "medicine": "Cetirizine", "remainingTablets": 60 },
+        { "medicine": "Loratadine", "remainingTablets": 45 },
+        { "medicine": "Fluticasone", "remainingTablets": 30 },
+        { "medicine": "Epinephrine", "remainingTablets": 5 }
+    ],
+    "UTI": [
+        { "medicine": "Ciprofloxacin", "remainingTablets": 20 },
+        { "medicine": "Trimethoprim", "remainingTablets": 25 },
+        { "medicine": "Phenazopyridine", "remainingTablets": 15 },
+        { "medicine": "Cranberry Extract", "remainingTablets": 30 }
+    ]
+}

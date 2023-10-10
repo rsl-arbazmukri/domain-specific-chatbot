@@ -1,0 +1,101 @@
+﻿Bill breakdown for individual patients.
+
+
+1. John Smith (Hypertension):
+Patient Name: John Smith
+Disease: Hypertension
+Bill Amount: $300
+Bill Breakdown: 
+- Consultation: $100
+- Blood Pressure Monitoring: $50
+- Medications: $150
+
+
+2. Emily Johnson (Migraine):
+Patient Name: Emily Johnson
+Disease: Migraine
+Bill Amount: $150
+Bill Breakdown:
+- Consultation: $80
+- Neurological Examination: $40
+- Medications: $30
+
+
+3. Michael Brown (Flu):
+Patient Name: Michael Brown
+Disease: Flu
+Bill Amount: $200
+Bill Breakdown:
+- Consultation: $90
+- Lab Tests: $60
+- Medications: $50
+
+
+4. Sarah Davis (Diabetes):
+Patient Name: Sarah Davis
+Disease: Diabetes
+Bill Amount: $500
+Bill Breakdown:
+- Consultation: $120
+- Blood Sugar Monitoring: $100
+- Insulin and Supplies: $280
+
+
+5. Robert Wilson (Arthritis):
+Patient Name: Robert Wilson
+Disease: Arthritis
+Bill Amount: $350
+Bill Breakdown:
+- Consultation: $110
+- Joint X-rays: $120
+- Medications and Physical Therapy: $120
+
+
+6. Olivia Clark (Common Cold):
+Patient Name: Olivia Clark
+Disease: Common Cold
+Bill Amount: $100
+Bill Breakdown:
+- Consultation: $50
+- Cold Relief Medications: $30
+- Rest and Hydration: $20
+
+
+7. William Lee (Heart Disease):
+Patient Name: William Lee
+Disease: Heart Disease
+Bill Amount: $800
+Bill Breakdown:
+- Cardiology Consultation: $200
+- EKG and Imaging: $300
+- Medications and Monitoring: $300
+
+
+8. Emma Martinez (Asthma):
+Patient Name: Emma Martinez
+Disease: Asthma
+Bill Amount: $250
+Bill Breakdown:
+- Pulmonary Consultation: $120
+- Inhaler and Medications: $80
+- Spirometry Test: $50
+
+
+9. Daniel White (Allergies):
+Patient Name: Daniel White
+Disease: Allergies
+Bill Amount: $120
+Bill Breakdown:
+- Allergy Consultation: $70
+- Allergy Testing: $30
+- Antihistamine Medications: $20
+
+
+10. Sophia Johnson (UTI):
+Patient Name: Sophia Johnson
+Disease: Urinary Tract Infection (UTI)
+Bill Amount: $180
+Bill Breakdown:
+- Consultation: $60
+- Urinalysis and Lab Tests: $80
+- Antibiotics: $40
